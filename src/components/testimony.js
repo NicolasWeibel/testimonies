@@ -1,4 +1,5 @@
 import React from "react";
+import "../stylesheets/testimony.css"
 
 function Testimony() {
   return (
