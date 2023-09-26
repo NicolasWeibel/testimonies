@@ -16,7 +16,7 @@ function App() {
         />
         <Testimony 
           image="gustavo"
-          fullName="Jorge Rodriguez"
+          fullName="Gustavo Rodriguez"
           country="Chile"
           position="Project Manager"
           company="Samsung"
@@ -24,7 +24,7 @@ function App() {
         />
         <Testimony 
           image="andrea"
-          fullName="John Smith"
+          fullName="Andrea Smith"
           country="United States"
           position="Backend Developer"
           company="Facebook"
