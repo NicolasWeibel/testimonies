@@ -8,7 +8,7 @@ function App() {
         <h1>This is what our students says about us:</h1>
         <Testimony 
           image="nicolas"
-          fullName="Nicolás Weibel"
+          fullName="Nicolás Gonzalez"
           country="Argentina"
           position="Software Engineer"
           company="Google"
